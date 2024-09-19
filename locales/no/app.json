@@ -1,0 +1,208 @@
+  {
+  "lang": "Norsk bokmål",
+  "sponsor": "Sponsor Noi",
+   "menu": {
+      "Menu": "Meny",
+      "About": "Om",
+      "Hide": "Skjul",
+      "Hide Others": "Skjul andre",
+      "Quit": "Avslutt",
+      "Show All": "Vis alle"
+      "CheckUpdates": "Søk etter oppdateringer",
+      
+      "Settings": "Innstillinger"
+      "Languages": "Språk"
+      "theme": {
+         "Theme": "Tema",
+         "Light": "Lyst",
+         "Dark": "Mørkt",
+         "System": "System",
+         "Monochromatic": "Monokromatisk",
+         "Frosted Texture": "Frostet tekstur",
+      },
+      "StayOnTop": "Hold øverst",
+      "LockSidebar": "Lås sidepanelet",
+      "ShowSidebar": "Vis sidepanelet",
+      "HideSidebar": "Skjul sidepanelet"
+      "NoiCacheMode": "Noi cachemodus"
+      "devTools": "Utviklerverktøy"
+      "xQuit": "Klikk [X] for å avslutte",
+      "SystemTray": "Systemstatus"
+  
+      "Edit": "Rediger",
+      "Undo": "Angre",
+      "Redo": "Gjør om",
+      "Paste and Match Style": "Lim inn og tilpass stilen",
+      "Delete": "Slett"
+  
+      "View": "Vis",
+      "Refresh the Page": "Oppdater siden",
+      "GoBack": "Gå tilbake",
+      "GoForward": "Gå fremover",
+      "resetZoom": "Faktisk størrelse",
+      "ZoomIn": "Zoom inn",
+      "ZoomOut": "Zoom ut",
+      "fullScreen": "Fullskjermsmodus"
+  
+      "Help": "Hjelp",
+      "Log": "Noi logg",
+      "GettingStarted": "Kom i gang",
+      "issues": "GitHub-problemer",
+      "ShareIdeas": "Del ideer og tilbakemeldinger"
+   
+      "Defaultwebbrowser": "Standard nettleser"
+      "LearnSpelling": "Lær staving",
+      "lookUpSelection": "Slå opp “{selection}”",
+      "SearchwithGoogle": "Søk med Google",
+      "SearchwithBing": "Søk med Bing",
+      "Cut": "Klipp ut",
+      "Copy": "Kopier",
+      "Paste": "Lim inn",
+      "Select All": "Velg alle",
+      "SaveImage": "Lagre bilde",
+      "SaveImageAs": "Lagre bilde som...",
+      "SaveVideo": "Lagre video",
+      "SaveVideoAs": "Lagre video som...",
+      "CopyLink": "Kopier lenke",
+      "SaveLink As": "Lagre lenke som...",
+      "CopyImage": "Kopier bilde",
+      "CopyImageAddress": "Kopier bildeadresse",
+      "CopyVideoAddress": "Kopier videoadresse",
+      "Inspect": "Inspiser element"
+      "Services": "Tjenester",
+      "Reload": "Last inn på nytt",
+      "Rename": "Gi nytt navn",
+      "User": "Bruker",
+      "SetSystemTray": "Sett som felt for systemstatus",
+      "ClearCache": "Tøm Cache-data"
+      "find": {
+       "Name": "Finn",
+       "findInPage": "Finn på siden",
+       "findNext": "Finn neste",
+       "findPrevious": "Finn forrige",
+       "jumpToSelection": "Gå til valget"        
+      }
+   },
+   "form": {
+    "name": "Navn,
+    "url": "URL",
+    "IsolatedCookieStorage": "Isolert lagring av informasjonskapsler",
+    "invalidURL": "Vennligst skriv inn en gyldig url",
+    "nameNotEmpty": "Feltet kan ikke være tomt"
+   },
+   "sidebar": {
+    "warn": {
+      "urlDelete": "Den gjeldende urlen er i bruk.",
+      "dirDelete": "Den gjeldende mappen er i bruk.",
+      "trayDelete": "Systemstatusfeltet bruker nåværende url og kan ikke slettes",
+    },
+    "tip": {
+      "delete": Gjenoppretting er ikke mulig etter sletting, er du sikker?",
+      "syncOverwrite": "Synkronisering vil overskrive alle data, vil du fortsette?",
+      "syncReset": "Synkronisering vil overskrive alle data, vil du fortsette?",
+      "syncOk": "Synkronisering var vellykket",
+      "syncResetOk": "Tilbakestillingen var vellykket"
+    }
+   },
+   "network": {
+     "error": {
+       "try": "Prøv:",
+       "title": "Denne siden kan ikke nås",
+       "longRespond": "tok for lang tid å svare.",
+       "checkConnection": "Sjekker tilkoblingen",
+       "checkProxy": "Sjekker proxy og brannmur"
+      }
+   },
+   "settings": {
+     "menu": {
+       "general": {
+         "name": "Generelt",
+         "syncBookmarks": "Synkroniser bokmerker",
+         "proxy": "Proxy",
+         "proxyRules": "Regler",
+         "proxyBypassRules": "Omgåelsesregler",
+         "promptLogLimit": "Logggrense",
+         "promptLogArchiveLimit": "Arkivgrense for logg",
+         "promptFavoritesLimit": "Favorittgrense",
+         "promptFavoritesArchiveLimit": "Arkivgrense for favoritter"
+       },
+       "keyboardShortcuts": {
+         "name": "Tastatursnarveier",
+         "recording": "Opptak...",
+         "globalShortcut": "Global snarvei",
+         "trayShortcut": "Snarvei til systemstatusfelt"
+      },
+      "extensions": "Utvidelser",
+      "prompts": {
+        "name": "Ledetekster",
+        "userPrompts": "Brukerledetekster",
+        "promptTags": "Ledetekstkoder",
+        "customSync": "Egendefinert synkronisering"
+      }
+    },
+    "confirm": {
+      "delete": "Er du sikker på at du vil slette denne oppføringen?",
+      "batchEnable": "Er du sikker på at du vil aktivere disse ledetekstene?",
+      "batchDelete": "Er du sikker på at du vil slette disse ledetekstene?",
+      "batchDisable": "Er du sikker på at du vil deaktivere disse ledetekstene?",
+      "batchUse": "Er du sikker på at du vil bruke disse ledetekstene?",
+      "batchTagsAdd": "Er du sikker på at du vil legge til disse kodene?",
+      "batchTagsDelete": "Er du sikker på at du vil slette disse kodene?"
+    },
+    "message": {
+      "added": "Lagt til",
+      "synced": "Synkronisert",
+      "invalidData": "Ugyldige data",
+      "missingActAndPrompt": "Manglende felt: 'act', 'prompt'. Prøv å bruke 'Alias' for å gi nytt navn.",
+      "missingManifest": "manifest.json-filen mangler eller er ugyldig.",
+      "checkExtension": "Vennligst sjekk utvidelseskatalogen på nytt:",
+      "existExtension": "Utvidelsen finnes allerede."
+    },
+    "tip": {
+      "proxyRules": "Regler som angir hvilke proxyer som skal brukes.",
+      "proxyBypassRules": "Regler som angir hvilke URL-er som skal omgå proxyinnstillingene.",
+      "shortcutRule": "Snarveiregel",
+      "modifierKeys": "Modifiseringstaster",
+      "regularKeys": "Vanlige taster",
+      "noiExtension": "Merk at Noi ikke støtter hele spekteret av Chrome-utvidelses-API-er. Se Supported Extensions APIs for mer informasjon om hva som støttes.",
+      "noiCacheMode": "Lagrer nettstedenes tilstander for rask gjenbruk, likt nettleserfaner. Kontinuerlig opptak av tilstander øker minnebruken, spesielt ved hyppig tilgang til forskjellige sidepaneler. For å redusere minnebelastning, spesielt under systemforsinkelser, bør du vurdere å deaktivere eller starte cachen på nytt etter flere bytter.",
+      "promptLogLimit": "Maksimalt antall ledetekster som kan beholdes i loggen (10-1000), med standardverdi satt til 300.",
+      "promptLogArchiveLimit_1": "Maksimalt antall ledetekster som kan lagres i en enkelt arkivfil (1000-10,000), med standardverdi satt til 1000.",
+      "promptLogArchiveLimit_2": "1. Filen som for tiden arkiveres: {{file}}.archiving.json",
+      "promptLogArchiveLimit_3": "2. Navngivningskonvensjon for fullførte arkivfiler: {{file}}_YYYY.MM.DD.HH.mm.ss_YYYY.MM.DD.HH.mm.ss.json, der YYYY.MM.DD.HH.mm.ss representerer start- og sluttidspunktene. For eksempel: {{file}}_2024.01.01.12.00.00_2024.08.08.10.10.00.json"
+    },
+    "table": {
+      "name": "Navn",
+      "extension": "Utvidelse",
+      "description": "Beskrivelse",
+      "version": "Versjon",
+      "tag": "Kode",
+      "color": "Farge",
+      "lastUpdate": "Siste oppdatering",
+      "usageCount": "Bruksteller"
+    }
+  }
+}
+
+
+
+
+   },
+   "actions": {
+      "Add": "Legg til",
+      "Cancel": "Avbryt",
+      "Create": "Opprett",
+      "Confirm": "Bekreft",
+      "Delete": "Slett",
+      "Disable": "Deaktiver",
+      "Edit": "Rediger",
+      "Enable": "Aktiver",
+      "Export": "Eksporter",
+      "Refresh": "Oppdater",
+      "Reset": "Tilbakestill",
+      "Sync": "Synkroniser",
+      "Save": "Lagre",
+      "Search": "Søk",
+      "Select": "Velg"
+   }
+}
